@@ -1,0 +1,1 @@
+Music Store SQL Analysis project exploring customer behavior, sales trends, and top-performing artists/genres using SQL. Includes joins, aggregations, and window functions to derive insights like top customers, country-wise revenue, and genre popularity for business decision-making.
